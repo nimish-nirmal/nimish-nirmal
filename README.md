@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 Currently, I'm immersed in crafting embedded systems tailored for IoT applications, pushing the boundaries of innovation.<br>👯 I'm eager to join forces on endeavors focusing on the seamless integration of IoT devices and the insightful analysis of sensor data.<br>🤝 Seeking assistance in fine-tuning firmware algorithms to enable lightning-fast processing in embedded systems.<br>🌱 Actively delving into the realm of machine learning, particularly its applications in predictive maintenance for IoT devices.<br>💬 Feel free to inquire about my expertise in designing interfaces that facilitate efficient data acquisition and system control.<br>⚡ Fun fact: I once engineered a remote-controlled robotic arm, transforming household chores into playful endeavors!
+🔭 **Building:** Scalable software systems, cloud-native architectures, and modern end-to-end technology solutions.<br>
+👯 **Collaborating On:** Cross-platform system integration, real-time data pipelines, and intelligent software applications.<br>
+🤝 **Optimizing:** High-performance code, algorithm efficiency, and low-latency system architectures.<br>
+🌱 **Exploring:** Advanced machine learning applications, distributed systems, and cutting-edge software practices.<br>
+💬 **Let's Talk About:** Modern software design, full-stack architecture, system integration, and efficient data processing.<br>
+⚡ **Fun Fact:** I once engineered a remote-controlled robotic arm to turn everyday household chores into an engineering playground!
 
 
 ## 🌐 Socials:
