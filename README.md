@@ -213,7 +213,7 @@ I bridge the gap between low-level hardware performance, edge computing platform
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=nimish-nirmal&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=nimish-nirmal&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
