@@ -204,16 +204,16 @@ I bridge the gap between low-level hardware performance, edge computing platform
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="center" align="center">
       <img src="https://github-readme-stats.shion.dev/api?username=nimish-nirmal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="center" align="center">
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nimish-nirmal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=5" width="100%" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com?user=nimish-nirmal&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+      <img src="https://raw.githubusercontent.com/nimish-nirmal/nimish-nirmal/main/build/streak-stats.svg" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
