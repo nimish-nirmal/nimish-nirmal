@@ -1,0 +1,21 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: DenverCoder1/github-readme-streak-stats@v1.9.0
+        with:
+          user: nimish-nirmal
+          theme: tokyonight
+          hide_border: true
+          output_file: build/streak-stats.svg
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "docs: update streak stats SVG"
