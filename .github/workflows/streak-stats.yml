@@ -8,14 +8,22 @@ on:
 jobs:
   update-streak:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit the updated SVG back to your repo
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: DenverCoder1/github-readme-streak-stats@v1.9.0
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           user: nimish-nirmal
           theme: tokyonight
           hide_border: true
           output_file: build/streak-stats.svg
-      - uses: stefanzweifel/git-auto-commit-action@v4
+
+      - name: Commit Updated SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: update streak stats SVG"
