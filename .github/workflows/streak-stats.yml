@@ -18,10 +18,9 @@ jobs:
       - name: Generate Streak Stats SVG
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: nimish-nirmal
-          theme: tokyonight
-          hide_border: true
-          output_file: build/streak-stats.svg
+          # Pass queries as a URL parameter string under 'options'
+          options: "user=nimish-nirmal&theme=tokyonight&hide_border=true"
+          path: build/streak-stats.svg
 
       - name: Commit Updated SVG
         uses: stefanzweifel/git-auto-commit-action@v5
